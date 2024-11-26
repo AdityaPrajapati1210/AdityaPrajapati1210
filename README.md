@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdityaPrajapati1210
-- 👀 I’m interested in web developer
+- 👀 I’m interested in web developent
 - 🌱 I’m currently learning web Devlepment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 25lpa
