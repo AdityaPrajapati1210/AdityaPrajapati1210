@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdityaKumarPrajapati
 - 👀 I’m interested in Web developent
-- 🌱 I’m currently learning web Devlepment
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me a great developer
 - 😄 Pronouns: ...
