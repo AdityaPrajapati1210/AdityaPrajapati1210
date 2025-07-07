@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Passionate+Programmer;C%2B%2B+%7C+Web+Developer;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
----
 
 ## 🏆 GitHub Trophy Badges
 
