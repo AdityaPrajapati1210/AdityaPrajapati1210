@@ -5,25 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Passionate+Programmer;C%2B%2B+%7C+Web+Developer;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
-
-## 🔭 Currently Learning
-- 📌 C++ DSA
-- 🧱 Web Development (HTML, CSS, JS, React)
-
-
-## 📫 How to Reach Me
-📧 [aditya20051012@gmail.com](mailto:aditya20051012@gmail.com)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/aditya-kumar-prajapati-518197321/)
-
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditya-kumar-prajapati-518197321/"><img src="https://skillicons.dev/icons?i=linkedin" height="48px"/></a>
-  <a href="mailto:aditya20051012@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48px"/></a>
-</p>
-
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -57,16 +38,29 @@
 </p>
 
 
-
-
-
 ## 🔥 GitHub Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AdityaPrajapati1210&theme=radical&hide_border=true&border_radius=10" />
 </p>
 
----
+## 🔭 Currently Learning
+- 📌 C++ DSA
+- 🧱 Web Development (HTML, CSS, JS, React)
+
+
+## 📫 How to Reach Me
+📧 [aditya20051012@gmail.com](mailto:aditya20051012@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/aditya-kumar-prajapati-518197321/)
+
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-kumar-prajapati-518197321/"><img src="https://skillicons.dev/icons?i=linkedin" height="48px"/></a>
+  <a href="mailto:aditya20051012@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48px"/></a>
+</p>
+
 
 ## 💬 Quote of the Day
 > *“First, solve the problem. Then, write the code.” – John Johnson*
