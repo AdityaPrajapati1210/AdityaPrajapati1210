@@ -7,6 +7,15 @@
 
 ---
 
+## 🏆 GitHub Trophy Badges
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdityaPrajapati1210&theme=onestar&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+
 ## 🔭 Currently Learning
 - 📌 C++ DSA
 - 🧱 Web Development (HTML, CSS, JS, React)
@@ -32,14 +41,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,react,github,vscode" height="50" />
-</p>
-
----
-
-## 🏆 GitHub Trophy Badges
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaPrajapati1210&theme=onestar&no-frame=true&margin-w=15" />
 </p>
 
 ---
