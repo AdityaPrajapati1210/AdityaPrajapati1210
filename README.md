@@ -7,86 +7,66 @@
 
 ---
 
-### 🔭 Currently Learning
-- 📌 **C++ DSA**
+## 🔭 Currently Learning
+- 📌 C++ DSA
 - 🧱 Web Development (HTML, CSS, JS, React)
 
 ---
 
-### 📫 How to Reach Me
-- 📧 Email: [aditya20051012@gmail.com](mailto:aditya20051012@gmail.com)
-- 💼 LinkedIn: [Aditya Kumar Prajapati](https://www.linkedin.com/in/aditya-kumar-prajapati-518197321/)
+## 📫 How to Reach Me
+📧 [aditya20051012@gmail.com](mailto:aditya20051012@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/aditya-kumar-prajapati-518197321/)
 
 ---
 
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/aditya-kumar-prajapati-518197321/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:aditya20051012@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🛠️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-</p>
-
----
-
-### 📊 GitHub Stats
+## 🌐 Connect with Me
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AdityaPrajapati1210&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPrajapati1210&layout=compact&theme=tokyonight" />
+  <a href="https://www.linkedin.com/in/aditya-kumar-prajapati-518197321/"><img src="https://skillicons.dev/icons?i=linkedin" height="48px"/></a>
+  <a href="mailto:aditya20051012@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48px"/></a>
 </p>
 
 ---
 
-### 🏆 GitHub Achievements
+## 🛠️ Tech Stack (Big Portrait Icons)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaPrajapati1210&theme=gruvbox&no-frame=true&row=1&column=6" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,react,github,vscode" height="50" />
 </p>
 
 ---
 
-### 🔥 GitHub Streak
+## 🏆 GitHub Trophy Badges
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AdityaPrajapati1210&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AdityaPrajapati1210&theme=onestar&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
-### 💡 Quote of the Day
+## 📊 GitHub Stats (Modern Look)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaPrajapati1210&show_icons=true&theme=radical&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPrajapati1210&layout=donut&theme=radical" width="48%" />
+</p>
+
+---
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AdityaPrajapati1210&theme=radical&border_radius=10" />
+</p>
+
+---
+
+## 💬 Quote of the Day
 > *“First, solve the problem. Then, write the code.” – John Johnson*
 
 ---
 
-## 🙌 Thanks for visiting!
+## 💖 Thanks for visiting!
 
-> ⭐ Don’t forget to follow and ⭐ star if you like my work!
+> ⭐ If you like my work, don’t forget to star and follow!
 
----
-
-## 📎 How to Use This
-1. Go to your GitHub → New Repo → Name it **`AdityaPrajapati1210`** (your username)
-2. Add a `README.md` file
-3. Paste the above content
-4. Commit → Done!
-
----
-
-Would you like me to create this as a downloadable file (`README.md`) or generate a profile website based on this style too?
