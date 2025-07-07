@@ -5,19 +5,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Passionate+Programmer;C%2B%2B+%7C+Web+Developer;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
----
 
 ## 🔭 Currently Learning
 - 📌 C++ DSA
 - 🧱 Web Development (HTML, CSS, JS, React)
 
----
 
 ## 📫 How to Reach Me
 📧 [aditya20051012@gmail.com](mailto:aditya20051012@gmail.com)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/aditya-kumar-prajapati-518197321/)
 
----
 
 ## 🌐 Connect with Me
 
@@ -26,7 +23,6 @@
   <a href="mailto:aditya20051012@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48px"/></a>
 </p>
 
----
 
 ## 🛠️ Tech Stack
 
@@ -34,7 +30,6 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,vscode,github" height="50" />
 </p>
 
----
 
 ## 🏆 GitHub Trophy Badges
 
@@ -42,7 +37,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=AdityaPrajapati1210&theme=onestar&no-frame=true&row=1&column=6&margin-w=15" />
 </p>
 
----
 
 ## 📊 GitHub Stats
 
@@ -51,7 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPrajapati1210&layout=compact&theme=radical&hide_border=true&hide_title=true" height="200"/>
 </p>
 
----
 
 ## 🔥 GitHub Contribution Streak
 
@@ -59,20 +52,17 @@
   <img src="https://streak-stats.demolab.com?user=AdityaPrajapati1210&theme=radical&hide_border=true&border_radius=10" />
 </p>
 
----
 
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AdityaPrajapati1210&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaPrajapati1210&theme=react-dark&hide_border=true&area=true" />
 </p>
 
----
 
 ## 💬 Quote of the Day
 > *“First, solve the problem. Then, write the code.” – John Johnson*
 
----
 
 ## 💖 Thanks for visiting!
 
