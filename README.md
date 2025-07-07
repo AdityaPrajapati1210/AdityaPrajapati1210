@@ -46,15 +46,16 @@
 </p>
 
 
-## GitHub Contribution
+## 🐍 GitHub Contribution Snake
 
-<div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/AdityaPrajapati1210/AdityaPrajapati1210/output/github-contribution-grid-snake.svg" 
-    alt="GitHub Snake Contribution Animation"
-    width="100%" 
-    style="max-width: 800px; border-radius: 15px; box-shadow: 0 0 20px rgba(0,0,0,0.2);" />
-</div>
+<p align="center">
+  <img
+    alt="Contribution Snake"
+    src="https://raw.githubusercontent.com/AdityaPrajapati1210/AdityaPrajapati1210/output/github-contribution-grid-snake.svg"
+    style="max-width: 100%; border-radius: 10px;"
+  />
+</p>
+
 
 
 
