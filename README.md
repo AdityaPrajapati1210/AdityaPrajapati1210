@@ -60,12 +60,13 @@
 
 
 
-## 📈 GitHub Activity Graph
+## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaPrajapati1210&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://streak-stats.demolab.com?user=AdityaPrajapati1210&theme=radical&hide_border=true&border_radius=10" />
 </p>
 
+---
 
 ## 💬 Quote of the Day
 > *“First, solve the problem. Then, write the code.” – John Johnson*
