@@ -36,7 +36,7 @@
 
 
 
-## 🛠️ Tech Stack (Big Portrait Icons)
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,react,github,vscode" height="50" />
@@ -44,11 +44,11 @@
 
 
 
-## 📊 GitHub Stats (Modern Look)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaPrajapati1210&show_icons=true&theme=radical&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPrajapati1210&layout=donut&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaPrajapati1210&show_icons=true&theme=radical&rank_icon=github&hide_border=true&hide_title=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPrajapati1210&layout=compact&theme=radical&hide_border=true&hide_title=true" height="200"/>
 </p>
 
 
