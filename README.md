@@ -19,6 +19,11 @@
 </p>
 
 
+
+
+
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -32,6 +37,17 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AdityaPrajapati1210&theme=radical&hide_border=true&border_radius=10" />
 </p>
+
+
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Aditya_Kumar_Prajapati?theme=dark&font=Baloo&ext=heatmap" />
+</p>
+
+
+
 
 ## 🔭 Currently Learning
 - 📌 C++ DSA
