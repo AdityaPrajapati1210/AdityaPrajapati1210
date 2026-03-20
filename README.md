@@ -52,8 +52,9 @@
 
 
 ## 💬 Quote of the Day
-> *“First, solve the problem. Then, write the code.” – John Johnson*
-
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ## 💖 Thanks for visiting!
 
